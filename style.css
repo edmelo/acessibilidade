@@ -45,6 +45,7 @@ footer {
 
 footer li {
  display: inline;
+ text-align: center;
 }
 
 .container {
